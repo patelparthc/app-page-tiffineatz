@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
@@ -111,3 +112,7 @@ I'd love to see the sites you create using this little tool.
 
 ## License
 [MIT License](LICENSE)
+=======
+# app-page-tiffineatz
+Order Homemade Food Near You
+>>>>>>> 64eeee3fa5521c43a68bcd10b64baefd64997dcc
